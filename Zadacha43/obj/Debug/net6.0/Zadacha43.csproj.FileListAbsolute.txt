@@ -1,0 +1,15 @@
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\bin\Debug\net6.0\Zadacha43.exe
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\bin\Debug\net6.0\Zadacha43.deps.json
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\bin\Debug\net6.0\Zadacha43.runtimeconfig.json
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\bin\Debug\net6.0\Zadacha43.dll
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\bin\Debug\net6.0\Zadacha43.pdb
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.csproj.AssemblyReference.cache
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.AssemblyInfoInputs.cache
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.AssemblyInfo.cs
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.csproj.CoreCompileInputs.cache
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.dll
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\refint\Zadacha43.dll
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.pdb
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\Zadacha43.genruntimeconfig.cache
+C:\Users\asics\OneDrive\Рабочий стол\C#_HW_5\Zadacha43\obj\Debug\net6.0\ref\Zadacha43.dll
